@@ -7,6 +7,9 @@
 @import "../libs/bootstrap/scss/bootstrap";
 // Then add additional custom code here
 
+/*en esta hoja de estilos se le da un ancho y un largo a la página, un estilo de letra, un color de encabezado, un color de footer, se lo agrega un borde y un color, se incorpora una margen con sus determinados pixeles
+se le da negrita algunos textos, se alinea el texto, a algunos elementos se le da la posición de izquierda o derecha*/
+
 
 .encabezado {
     height: 124px;
@@ -59,9 +62,7 @@
     font-family:CANDAL;
     margin-top: 75px;
 }
-.textosegundo{
-    display: inline;
-}
+
 
 
 .text1{
@@ -145,6 +146,8 @@
     margin-top:25px ;
     color:#94512c ;
 }
+
+
 .aside{
     display: inline-block;
     width: 300px;
